@@ -1,0 +1,10 @@
+C:\Users\ogenk\source\repos\TestingLab\DEQueue.Runner\bin\Debug\DEQueue.Runner.exe.config
+C:\Users\ogenk\source\repos\TestingLab\DEQueue.Runner\bin\Debug\DEQueue.Runner.exe
+C:\Users\ogenk\source\repos\TestingLab\DEQueue.Runner\bin\Debug\DEQueue.Runner.pdb
+C:\Users\ogenk\source\repos\TestingLab\DEQueue.Runner\bin\Debug\TestingLab.dll
+C:\Users\ogenk\source\repos\TestingLab\DEQueue.Runner\bin\Debug\TestingLab.pdb
+C:\Users\ogenk\source\repos\TestingLab\DEQueue.Runner\obj\Debug\DEQueue.Runner.csprojAssemblyReference.cache
+C:\Users\ogenk\source\repos\TestingLab\DEQueue.Runner\obj\Debug\DEQueue.Runner.csproj.CoreCompileInputs.cache
+C:\Users\ogenk\source\repos\TestingLab\DEQueue.Runner\obj\Debug\DEQueue.Runner.csproj.CopyComplete
+C:\Users\ogenk\source\repos\TestingLab\DEQueue.Runner\obj\Debug\DEQueue.Runner.exe
+C:\Users\ogenk\source\repos\TestingLab\DEQueue.Runner\obj\Debug\DEQueue.Runner.pdb

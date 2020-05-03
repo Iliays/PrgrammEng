@@ -1,0 +1,10 @@
+C:\Users\ogenk\source\repos\TestingLab\ConsoleTestQueue\bin\Debug\ConsoleTestQueue.exe.config
+C:\Users\ogenk\source\repos\TestingLab\ConsoleTestQueue\bin\Debug\ConsoleTestQueue.exe
+C:\Users\ogenk\source\repos\TestingLab\ConsoleTestQueue\bin\Debug\ConsoleTestQueue.pdb
+C:\Users\ogenk\source\repos\TestingLab\ConsoleTestQueue\bin\Debug\TestingLab.dll
+C:\Users\ogenk\source\repos\TestingLab\ConsoleTestQueue\bin\Debug\TestingLab.pdb
+C:\Users\ogenk\source\repos\TestingLab\ConsoleTestQueue\obj\Debug\ConsoleTestQueue.csprojAssemblyReference.cache
+C:\Users\ogenk\source\repos\TestingLab\ConsoleTestQueue\obj\Debug\ConsoleTestQueue.csproj.CoreCompileInputs.cache
+C:\Users\ogenk\source\repos\TestingLab\ConsoleTestQueue\obj\Debug\ConsoleTestQueue.csproj.CopyComplete
+C:\Users\ogenk\source\repos\TestingLab\ConsoleTestQueue\obj\Debug\ConsoleTestQueue.exe
+C:\Users\ogenk\source\repos\TestingLab\ConsoleTestQueue\obj\Debug\ConsoleTestQueue.pdb

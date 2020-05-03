@@ -1,0 +1,10 @@
+C:\Users\ogenk\source\repos\TestingLab\TestingLab.Runner\bin\Debug\TestingLab.Runner.exe.config
+C:\Users\ogenk\source\repos\TestingLab\TestingLab.Runner\bin\Debug\TestingLab.Runner.exe
+C:\Users\ogenk\source\repos\TestingLab\TestingLab.Runner\bin\Debug\TestingLab.Runner.pdb
+C:\Users\ogenk\source\repos\TestingLab\TestingLab.Runner\bin\Debug\TestingLab.dll
+C:\Users\ogenk\source\repos\TestingLab\TestingLab.Runner\bin\Debug\TestingLab.pdb
+C:\Users\ogenk\source\repos\TestingLab\TestingLab.Runner\obj\Debug\TestingLab.Runner.csprojAssemblyReference.cache
+C:\Users\ogenk\source\repos\TestingLab\TestingLab.Runner\obj\Debug\TestingLab.Runner.csproj.CoreCompileInputs.cache
+C:\Users\ogenk\source\repos\TestingLab\TestingLab.Runner\obj\Debug\TestingLab.Runner.csproj.CopyComplete
+C:\Users\ogenk\source\repos\TestingLab\TestingLab.Runner\obj\Debug\TestingLab.Runner.exe
+C:\Users\ogenk\source\repos\TestingLab\TestingLab.Runner\obj\Debug\TestingLab.Runner.pdb

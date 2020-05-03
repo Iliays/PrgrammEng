@@ -1,0 +1,8 @@
+C:\Users\ogenk\source\repos\TestingLab\TestingLab\bin\Debug\TestingLab.dll
+C:\Users\ogenk\source\repos\TestingLab\TestingLab\bin\Debug\TestingLab.pdb
+C:\Users\ogenk\source\repos\TestingLab\TestingLab\obj\Debug\TestingLab.csproj.CoreCompileInputs.cache
+C:\Users\ogenk\source\repos\TestingLab\TestingLab\obj\Debug\TestingLab.dll
+C:\Users\ogenk\source\repos\TestingLab\TestingLab\obj\Debug\TestingLab.pdb
+C:\Users\ogenk\source\repos\TestingLab\TestingLab\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\ogenk\source\repos\TestingLab\TestingLab\obj\Debug\TestingLab.csprojAssemblyReference.cache
+C:\Users\ogenk\source\repos\TestingLab\TestingLab\obj\Debug\TestingLab.csproj.CopyComplete
